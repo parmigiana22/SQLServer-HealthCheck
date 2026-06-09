@@ -1,0 +1,12 @@
+{
+  "SqlInstance": "localhost",
+  "Database": "master",
+  "OutputFolder": "..\reports",
+  "BackupWarningHours": 24,
+  "BackupCriticalHours": 48,
+  "IndexFragmentationWarningPercent": 30,
+  "TopQueryCount": 20,
+  "UseWindowsAuthentication": true,
+  "SqlUsername": "",
+  "SqlPassword": ""
+}
